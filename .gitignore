@@ -1,0 +1,11 @@
+notes.txt
+ercot-dataset.csv
+wine_quality/
+winequality-white.csv
+Hyperparameter optimization Report.docx
+Hyperparameter Optimization Techniques.docx
+others/
+ML_Exercise.ipynb
+RandomForest - kfold validation.ipynb
+hpo.py
+DecisionTreeRegression.ipynb
